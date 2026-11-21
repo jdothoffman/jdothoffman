@@ -5,7 +5,7 @@
 
 I grew from hands-on engineering into architecture and engineering management: leading multi-team delivery, raising the bar on quality and operability, and staying close enough to the stack to debug hard production problems. Comfortable across **.NET / C#**, modern web apps, data platforms, and **Azure**.
 
-**Open to roles in 2027** · [LinkedIn](https://www.linkedin.com/in/justin-hoffman-78984b21)
+[LinkedIn](https://www.linkedin.com/in/justin-hoffman-78984b21)
 
 ## What I focus on
 
